@@ -19,7 +19,6 @@ The SOOO repository is organized as follows:
 * [SOOO.ttl](SOOO.ttl): The latest version of the SOOO in Terse RDF Triple Language (Turtle) format.
     * sooo-merged [dir]:
         * [SOOO_Merged.owl](sooo-merged/SOOO_Merged.owl): A merged version of the SOOO, including all imported ontologies (OWL format).
-        * [SOOO_Merged.ttl](sooo-merged/SOOO_Merged.ttl): A merged version of the SOOO, including all imported ontologies (Turtle format).
 
 # More Information
 
