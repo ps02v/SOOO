@@ -1,0 +1,4 @@
+C:/Users/pauls/Desktop/GitHub/SOOO/ESCO.owl filter=lfs diff=lfs merge=lfs -text
+C:/Users/pauls/Desktop/GitHub/SOOO/ESCO.ttl filter=lfs diff=lfs merge=lfs -text
+C:/Users/pauls/Desktop/GitHub/SOOO/sooo-merged/SOOO_Merged.owl filter=lfs diff=lfs merge=lfs -text
+C:/Users/pauls/Desktop/GitHub/SOOO/sooo-merged/SOOO_Merged.ttl filter=lfs diff=lfs merge=lfs -text
